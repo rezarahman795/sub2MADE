@@ -1,0 +1,124 @@
+<resources>
+    <string name="app_name">Entertainment</string>
+    <string name="home">Entertainment</string>
+    <string name="film">Movie</string>
+    <string name="setting">Setting</string>
+    <string name="serial_tv">Serial TV</string>
+    <string name="item_movie_name">item name movie</string>
+    <string name="item_tgl_movie">item tgl movie</string>
+    <string name="item_desc_movie">item Desc movie</string>
+    <string name="item_crew_movie">item crew movie</string>
+    <string name="item_position_movie">item position movie</string>
+
+    <string name="item_name_serial">item name serial</string>
+    <string name="item_tgl_serial">item tgl serial</string>
+    <string name="item_desc_serial">item Desc serial</string>
+    <string name="item_crew_serial">item crew serial</string>
+    <string name="item_position_serial">item position serial</string>
+
+    <string name="backdrop_detail_movie">backdrop detail movie</string>
+    <string name="image_detail_movie">image detail movie</string>
+    <string name="title_detail_movie">title detail movie</string>
+    <string name="tgl_detail_movie">tgl detail movie</string>
+    <string name="Featured_Crew_movie">Featured Crew</string>
+    <string name="crew_detail_movie">crew detail movie</string>
+    <string name="position_detail_movie">position detail movie</string>
+    <string name="desc_tv_movie">Description</string>
+    <string name="desc_detail_movie">Description_detail_movie</string>
+
+    <string name="backdrop_detail_serial">backdrop detail serial</string>
+    <string name="image_detail_serial">image detail serial</string>
+    <string name="title_detail_serial">title detail serial</string>
+    <string name="tgl_detail_serial">tgl detail serial</string>
+    <string name="Featured_Crew_serial">Featured Crew</string>
+    <string name="crew_detail_serial">crew detail serial</string>
+    <string name="position_detail_serial">position detail serial</string>
+    <string name="desc_tv_serial">Description</string>
+    <string name="desc_detail_serial">Description_detail_serial</string>
+
+
+    <array name="data_picture">
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_deadpool</item>
+        <item>@drawable/poster_dragon</item>
+        <item>@drawable/poster_glass</item>
+        <item>@drawable/poster_hunterkiller</item>
+        <item>@drawable/poster_mortalengine</item>
+        <item>@drawable/poster_robinhood</item>
+        <item>@drawable/poster_spiderman</item>
+        <item>@drawable/poster_venom</item>
+        <item>@drawable/poster_dragonball</item>
+    </array>
+
+    <string-array name="data_name_movie">
+        <item>Avengers: Infinity War</item>
+        <item>Bumblebee</item>
+        <item>Deadpool 2</item>
+        <item>How to Train Your Dragon: The Hidden World</item>
+        <item>Glass</item>
+        <item>Hunter Killer</item>
+        <item>Mortal Engine</item>
+        <item>Robin Hood</item>
+        <item>Spider-Man: Into the Spider-Verse</item>
+        <item>Venom</item>
+        <item>Dragon Ball Z</item>
+    </string-array>
+
+    <string-array name="data_name_crew">
+        <item>Joe Russo</item>
+        <item>Travis Knight</item>
+        <item>David Leitch</item>
+        <item>Dean DeBlois</item>
+        <item>M. Night Shyamalan</item>
+        <item>Donovan Marsh</item>
+        <item>Christian Rivers</item>
+        <item>Otto Bathurst</item>
+        <item>Rodney Rothman</item>
+        <item>Ruben Fleischer</item>
+        <item>Akira Toriyama</item>
+    </string-array>
+
+    <string-array name="detail_position">
+        <item>Director</item>
+        <item>Director</item>
+        <item>Director</item>
+        <item>Screenplay, Director, Story</item>
+        <item>Director, Screenplay</item>
+        <item>Director</item>
+        <item>Director</item>
+        <item>Director</item>
+        <item>Director, Screenplay</item>
+        <item>Director</item>
+        <item>Creator</item>
+    </string-array>
+
+
+    <string-array name="data_description_detail">
+        <item>As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.</item>
+        <item>On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee, battle-scarred and broken. When Charlie revives him, she quickly learns this is no ordinary yellow VW bug.</item>
+        <item>Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boy\'s life.</item>
+        <item>As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ discovery of an untamed, elusive mate draws the Night Fury away. When danger mounts at home and Hiccup’s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind. </item>
+        <item>In a series of escalating encounters, former security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities. Meanwhile, the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both men.</item>
+        <item>Captain Glass of the USS Arkansas discovers that a coup d\'état is taking place in Russia, so he and his crew join an elite group working on the ground to prevent a war.</item>
+        <item>Many thousands of years in the future, Earth’s cities roam the globe on huge wheels, devouring each other in a struggle for ever diminishing resources. On one of these massive traction cities, the old London, Tom Natsworthy has an unexpected encounter with a mysterious young woman from the wastelands who will change the course of his life forever.</item>
+        <item>A war-hardened Crusader and his Moorish commander mount an audacious revolt against the corrupt English crown.</item>
+        <item>Miles Morales is juggling his life between being a high school student and being a spider-man. When Wilson "Kingpin" Fisk uses a super collider, others from across the Spider-Verse are transported to this dimension.</item>
+        <item>Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.</item>
+        <item>Five years have passed since the fight with Piccolo Jr. and Goku now has a son, Gohan. The peace is interrupted when an alien named Raditz arrives on Earth in a spacecraft and tracks down Goku, revealing to him that that they are members of a near-extinct warrior race called the Saiyans.</item>
+    </string-array>
+
+    <string-array name="data_tgl_movie">
+        <item>April 25, 2018</item>
+        <item>December 15, 2018</item>
+        <item>May 10, 2018</item>
+        <item>January 3, 2019</item>
+        <item>January 16, 2019</item>
+        <item>October 19, 2018</item>
+        <item>November 27, 2018</item>
+        <item>November 21, 2018</item>
+        <item>December 6, 2018</item>
+        <item>September 28, 2018</item>
+        <item>April 26, 1989</item>
+    </string-array>
+</resources>
